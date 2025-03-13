@@ -62,3 +62,10 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello bash
 touch questionnaire.sh
+echo hello questionnaire
+echo hello questionnaire
+echo hello questionnaire.sh
+ls --color=auto
+more questionnaire.sh
+echo "hello" >> questionnaire
+echo hello questionnaire
